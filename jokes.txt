@@ -1,2 +1,5 @@
 Q: What's the best part about Boolean logic?
 A: Even when you're wrong, you're just a bit off!
+
+Q: A programmer walks into a bar. The bartender says, "What'll it be?" The programmer says, "More like Water it be. Because I'd like some water."
+A: The bartender gives him some unfiltered tap water.
